@@ -1,0 +1,16 @@
+{
+  "name": "vue3-sample-for-local-html",
+  "version": "1.0.0",
+  "description": "PC上のHTMLをブラウザで直接開いてVue3を動かすサンプル",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.6.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-standard": "^5.0.0"
+  }
+}
