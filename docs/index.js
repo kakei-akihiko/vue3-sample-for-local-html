@@ -1,7 +1,8 @@
-/* global Vue */
-/* eslint no-undef: "error" */
+'use strict';
 (
   () => {
+    const Vue = globalThis.Vue
+
     const yourNameSection = {
       template: `
       <section>
